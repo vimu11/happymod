@@ -1,6 +1,6 @@
 What Is HappyMod? Complete Guide to the Popular Mod APK Platform
 
-HappyMod is a popular third-party platform that allows Android users to download modded APK files for games and apps. These modified versions often unlock premium features, provide unlimited resources, or remove ads, making them attractive to users who want an enhanced app experience without paying. With a large community of contributors and regular updates, HappyMod has become one of the most trusted sources for mod APKs worldwide.
+<a href="https://happymods.org">Happymod</a> is a popular third-party platform that allows Android users to download modded APK files for games and apps. These modified versions often unlock premium features, provide unlimited resources, or remove ads, making them attractive to users who want an enhanced app experience without paying. With a large community of contributors and regular updates, HappyMod has become one of the most trusted sources for mod APKs worldwide.
 
 How HappyMod Works
 
